@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AusyDemo.iml" filepath="$PROJECT_DIR$/AusyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Business/Business.iml" filepath="$PROJECT_DIR$/Business/Business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commons/Commons.iml" filepath="$PROJECT_DIR$/Commons/Commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ear/Ear.iml" filepath="$PROJECT_DIR$/Ear/Ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repository/Repository.iml" filepath="$PROJECT_DIR$/Repository/Repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UI/UI.iml" filepath="$PROJECT_DIR$/UI/UI.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+.form-search-control{
+    height: auto!important;
+}
+.search-container{
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    background-color: #bfcfcf;
+    border-color: black;
+    width: 30%;
+}
+
+.search-btn{
+    display: flex;
+    margin-bottom: 10px;
+    background-color: crimson;
+    border-color: #6c757d;
+    color:#fff;
+}
+
+.search-btn:hover{
+    color: #fff; background-color: firebrick;
+}
+
+.search-img{
+    width: 15px;
+    height: 15px;
+}

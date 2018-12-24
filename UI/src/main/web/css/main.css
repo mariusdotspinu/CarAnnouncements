@@ -1,0 +1,135 @@
+html,
+body {
+    height: 100%;
+}
+
+@media screen and (min-width: 768px){
+    body{
+        padding-top: 100px; /* fixed navbar will overlap other elements */
+        background-color: #f5f5f5;
+    }
+}
+
+.btn-secondary{
+    color:#fff;background-color: forestgreen;border-color:#6c757d
+}
+
+.btn-secondary:hover{
+    color:#fff;background-color: mediumseagreen;
+}
+
+.card-container{
+    margin-bottom: 60px!important;
+}
+
+.carousel-inner img {
+    width: 40%;
+    height: 40%;
+}
+
+.carousel-control-next {
+    filter: invert(100%);
+}
+
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+
+.container{
+    margin-bottom: 15px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: fit-content;
+    background-color: midnightblue;
+}
+
+.footer .p-footer{
+    color: aqua;
+}
+
+
+.form-align {
+    display: block;
+    text-align: center;
+}
+
+.form-control{
+    margin-bottom: 15px!important;
+    width: 100%;
+    height: 80px;
+}
+
+.form-inline{
+    margin-right: 5px;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form-signin .checkbox {
+    font-weight: 400;
+}
+.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    font-size: 16px;
+}
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+
+.greetings-message{
+    color: aqua;
+}
+
+.header{
+    margin-bottom: 15px;
+}
+
+.register-btn:hover{
+    color: #fff; background-color: crimson;
+}
+
+.register-btn{
+    color:#fff;background-color: red;border-color:#6c757d
+}
+
+.register-success-btn{
+    color:#fff;background-color: darkviolet;border-color:#6c757d
+}
+
+.register-success-btn:hover{
+    color: #fff; background-color: midnightblue;
+}
+
+.success_icon{
+    width: 30%;
+    height: 30%;
+    margin-bottom: 10px;
+}
+
+.validation-error{
+    color: crimson;
+    font-size: small;
+}
+
+
+

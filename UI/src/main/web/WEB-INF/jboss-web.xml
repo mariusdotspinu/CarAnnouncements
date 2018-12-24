@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>/carAnnouncements</context-root>
+</jboss-web>

@@ -1,0 +1,1 @@
+CREATE SCHEMA `car_announcements`;

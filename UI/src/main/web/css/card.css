@@ -1,0 +1,16 @@
+.brand{
+    color: green;
+}
+
+.model{
+    color: aqua;
+}
+
+.price{
+    font-size: 20px;
+    color: darkred;
+}
+.title{
+    font-size: 25px;
+}
+
