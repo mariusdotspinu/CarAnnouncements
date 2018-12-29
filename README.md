@@ -1,5 +1,8 @@
 # CarAnnouncements
 
+![picture alt](https://i.imgur.com/THRPQP1.png "Title is optional")
+
+
 ## Technologies used
 
 * Java EE
